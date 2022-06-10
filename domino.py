@@ -1,4 +1,4 @@
-    """
+"""
 https://www.agoralude.com/blog/la-regle-du-jeu-de-dominos-n33
 
 'un jeu de dominos classique est composé de 28 pièces dont chaque moitié comporte un certain nombre de petits points allant de 0 à 6.
